@@ -37,7 +37,7 @@ These variables are stored in the `Profiles > default` file:
 ##  How to Run
 
 1. Open the project in **Katalon Studio**
-2. Go to **Test Suites > TS_WeatherAndAirPollution**
+2. Go to **Test Suites > TS_Get5DaysForecast or TS_GetCurrentAirPolution
 3. Click **Run** (choose desired environment)
 4. Reports will be generated in `Reports/` directory
 
