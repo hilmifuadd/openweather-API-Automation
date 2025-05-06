@@ -43,7 +43,7 @@ These variables are stored in the `Profiles > default` file:
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - Use your own **API key** and stay within free-tier rate limits.
 - Variables are externalized to the Global Profile.
